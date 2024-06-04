@@ -60,7 +60,7 @@ do
     Console.WriteLine("El Valor de j es "+ j);
     j++;
 }while(j < 5);
-
+*/
 
 
 
@@ -68,7 +68,7 @@ for (int k = 0; k < 5; k++)
 {
     Console.WriteLine("El Valor de j es "+ k);
 }
-*/
+
 
 int[] nums = {1,2,3,4,5,6,7};
 
