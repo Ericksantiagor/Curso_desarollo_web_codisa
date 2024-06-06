@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+    @{
+        string name = "Erick Santiago Rodriguez Cruz";
+    }
+
+
+    <h2> El valor de la variable name es @name</h2>
+
+
+    @{
+        var greeting = "Bienvenido a nuestra aplicacion web";
+        var age = 20;
+        var greetingmessage = $"{greeting} {name} tienes {age} años.";
+    }
+
+    <p> @greetingmessage </p>

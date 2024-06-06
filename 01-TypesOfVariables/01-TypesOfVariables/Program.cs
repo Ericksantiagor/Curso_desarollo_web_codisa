@@ -20,5 +20,5 @@ char charater = 'a';
 byte myByte = 255;
 short myShort = -32252;//este tipo almacena un valor enterto con signo negativos
 long myLong = 123456789123456799;
-float myFloat = 120.56f;// almaceba un numero de decimal  de presion simple
+float myFloat = 120.56f;// almaceba un numero de decimal  de presion simple;
 
